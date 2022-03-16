@@ -1,4 +1,10 @@
+HEAD
 Hii User
+Updated upstream
+
+Hi I am using git stash command
+Hii this hear Stashed change
+73720de (update)
 Hii I am using Java code
 Hallo again updating the file
 Hello world
